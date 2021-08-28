@@ -44,7 +44,7 @@
         android:layout_width="50dp"
         android:layout_height="50dp"
 
-        app:srcCompat="@drawable/share" />
+        app:srcCompat="@android:drawable/ic_menu_share" />
 
 
 </LinearLayout>
